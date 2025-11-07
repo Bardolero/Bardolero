@@ -3,7 +3,7 @@
 :computer: **Arquitecto amateur en: HTML**
 :pencil: **Generador de contenido y lector incansable.**
 :eyeglasses: **Geek empedernido**
-:oncoming_automovile: **Fanático de series y películas que cumplan su misión (que me entretengan :)**
+:oncoming_automobile: **Fanático de series y películas que cumplan su misión (que me entretengan :)**
 
 **Contacto!**
 
