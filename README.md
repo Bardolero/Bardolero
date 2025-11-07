@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+:computer: **Arquitecto amateur en: HTML**
+:pencil: **Generador de contenido y lector incansable.**
+:eyeglases: **Geek empedernido**
+:oncoming: **Fanático de series y películas que cumplan su misión (que me entretengan :)**
+
+**Contacto!**
+
 <!--
 **Bardolero/Bardolero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
