@@ -1,9 +1,12 @@
 ## Hi there 👋
 
 :computer: **Arquitecto amateur en: HTML**
+
 :pencil: **Generador de contenido y lector incansable.**
-:eyeglasses: **Geek empedernido**
-:oncoming_automobile: **Fanático de series y películas que cumplan su misión (que me entretengan :)**
+
+:sunglasses: **Geek empedernido**
+
+:star2: **Fanático de series y películas que cumplan su misión (que me entretengan :)**
 
 **Contacto!**
 
